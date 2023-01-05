@@ -173,4 +173,38 @@ main{
     color:#757575;
     
 }
+/* A summary of My Resume Style */
+.resume-contener{
+    display: flex;
+    gap:20px;
+    padding: 10px;
+}
+.resume-title{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 36px;
+}
+.education-itame{
+    border-bottom: 1px solid #757575;
+    margin-bottom: 20px;
+    padding-right: 20px;
+    
+}
+.my-education-title{
+    font-size:25px ;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 20px
+}
+.education-itame-title{
+    margin-bottom: 10px
+}
+.education-itame-subtitle{
+    color:#757575;
+    margin-bottom: 30px;
+}
+.education-itame-description{
+    margin-bottom: 40px;
+}
 
