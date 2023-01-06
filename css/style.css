@@ -16,7 +16,7 @@ header{
 nav{
     display:flex;
     justify-content: space-between;
-    margin:51px 200px
+    padding:51px 200px
 }
 .nav_title{
     font-weight: 800;
